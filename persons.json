@@ -1,0 +1,67 @@
+{
+  "date_start": "2021-12-01",
+  "date_end": "2021-12-31",
+  "weekday": {
+    "jobs": {
+      "filyasyon": {
+        "hour": 13,
+        "required_personnel": 1
+      },
+      "kurum_asi": {
+        "hour": 8,
+        "required_personnel": 1
+      },
+      "koy_veya_okul_asi": {
+        "hour": 8,
+        "required_personnel": 1
+      },
+      "olu_muayenesi": {
+        "hour": 8,
+        "required_personnel": 1
+      }
+    }
+  },
+  "weekend": {
+    "jobs": {
+      "filyasyon": {
+        "hour": 13,
+        "required_personnel": 1
+      }
+    }
+  },
+  "persons": [
+    {
+      "name": "Ahmet Ramazan Akur",
+      "offdays": [
+        {
+          "start_date": "2021_11_01",
+          "end_date": "2021_11_03"
+        },
+        {
+          "start_date": "2021_11_10",
+          "end_date": "2021_11_12"
+        }
+      ]
+    },
+    {
+      "name": "Mehmet Irsat Sahin",
+      "offdays": []
+    },
+    {
+      "name": "Ozan Ismail Korkmaz",
+      "offdays": []
+    },
+    {
+      "name": "Alp Eren Aksoy",
+      "offdays": []
+    },
+    {
+      "name": "Zeynep Uludag",
+      "offdays": []
+    },
+    {
+      "name": "Irem Kazar",
+      "offdays": []
+    }
+  ]
+}
